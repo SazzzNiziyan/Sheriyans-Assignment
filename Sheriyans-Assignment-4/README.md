@@ -1,5 +1,8 @@
 # Sheriyan — Assignment 4
 
+## Live Link
+[Click Here](https://sheriyan-assignment-4.vercel.app/)
+
 ![Project Badge](https://img.shields.io/badge/status-complete-brightgreen) ![Tech](https://img.shields.io/badge/tech-HTML%20|%20CSS-blue)
 
 A sleek, minimal single-page web assignment showcasing layout, styling and responsive UI using plain HTML and CSS. This repo contains the built static site — open index.html to preview locally or deploy to GitHub Pages for a live demo.
