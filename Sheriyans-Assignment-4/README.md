@@ -1,7 +1,7 @@
 # Sheriyan — Assignment 4
 
 ## Live Link
-[Click Here]((https://sheriyan-assinment4.vercel.app/))
+[Click Here](https://sheriyan-assinment4.vercel.app/)
 
 ![Project Badge](https://img.shields.io/badge/status-complete-brightgreen) ![Tech](https://img.shields.io/badge/tech-HTML%20|%20CSS-blue)
 
