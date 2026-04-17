@@ -1,5 +1,10 @@
 # Sheriyan-Assignment-6
 
+## Live Link
+
+[Click Here](https://sheriyan-assignment-6.vercel.app/)
+
+
 ## Description
 This repository contains the Sheriyan Assignment 6 project. The project showcases the use of HTML and CSS to create a responsive and visually appealing web page. The aim of this assignment is to practice and demonstrate proficiency in web development using these technologies.
 
